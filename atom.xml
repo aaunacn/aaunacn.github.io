@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://aaunacn.github.io</id>
+    <title>ArcheAge:Unchained</title>
+    <updated>2021-04-07T12:37:59.086Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://aaunacn.github.io"/>
+    <link rel="self" href="https://aaunacn.github.io/atom.xml"/>
+    <subtitle>上古世界买断服指南</subtitle>
+    <logo>https://aaunacn.github.io/images/avatar.png</logo>
+    <icon>https://aaunacn.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2021, ArcheAge:Unchained</rights>
+    <entry>
+        <title type="html"><![CDATA[关于Pass任务的介绍！]]></title>
+        <id>https://aaunacn.github.io/post/FQA7V6sQt/</id>
+        <link href="https://aaunacn.github.io/post/FQA7V6sQt/">
+        </link>
+        <updated>2021-04-06T17:41:40.000Z</updated>
+        <content type="html"><![CDATA[<p>建议只开中间的，第一个和第三个都不需要去开，中间完成消耗500劳动力、1000劳动力，获得500生活点、1000生活点、1张或者2涨债券任务。<br>
+第一个：通过打怪，打BOSS，杀人等。<br>
+第三个：通过开钱袋子、翻新3次、镶嵌荣誉石等。<br>
+生活点：家族任务、有建筑后当地的住民会馆任务<br>
+小技巧：如果免费6次刷新用完后，可以切换到其他pass，再切换回来，这样就可以通过小号2个黄金锤子达到刷新一次任务。<br>
+<img src="https://aaunacn.github.io/post-images/1617731034353.jpg" alt="" loading="lazy"><br>
+<img src="https://aaunacn.github.io/post-images/1617731392683.jpg" alt="" loading="lazy"><br>
+<img src="https://aaunacn.github.io/post-images/1617731400151.jpg" alt="" loading="lazy"></p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[萌新指南（进行时）]]></title>
+        <id>https://aaunacn.github.io/post/uEHs9B4wB/</id>
+        <link href="https://aaunacn.github.io/post/uEHs9B4wB/">
+        </link>
+        <updated>2021-04-06T17:21:12.000Z</updated>
+        <content type="html"><![CDATA[<p><strong><code>Q：房屋精灵主副角色是否通用？</code></strong><br>
+A：主副角色房屋精灵的经验是通用的，但同时只能1个角色激活，想要副角色激活就得主角色取消，且副角色有竣工的建筑物才可激活。</p>
+<p><strong><code>Q：游戏内双倍活动是哪些类型？</code></strong><br>
+A：双倍经验、双倍生活点、双倍荣誉值、双倍掉率 Ps：战场不双倍</p>
+<p><strong><code>Q：庭院挂机多久能到6阶段？</code></strong><br>
+A：早上8点地图内挂机-18.50战争结束，能拿到5阶段2465积分(会有些许出入)，自己再单独刷几只即可。<br>
+<img src="https://aaunacn.github.io/post-images/1617015164714.jpg" alt="" loading="lazy"></p>
+<p><strong><code>Q：庭院任务中途出图了，分数会重置吗？</code></strong><br>
+A：只要你不去NPC交付任务，任务会一直在身上不会重置，直到你去交了为止。</p>
+<p><strong><code>Q：目前是否支持游戏改名？</code></strong><br>
+A：1400点券即可，在官网修改，但自从合服后出现BUG，目前不支持修改角色名。<br>
+<img src="https://aaunacn.github.io/post-images/1616850913262.jpg" alt="" loading="lazy"></p>
+<p><strong><code>Q：新地图任务拿的紫色箱子有什么用？</code></strong><br>
+A：继承者后，打开后可以获得15个材料，可以在各主城的噜噜NPC兑换道具，1天同1道具只能兑换1次。DPS建议换红色、T和奶妈换蓝色，装备栏神星用。Ps：继承者40级17个<br>
+<img src="https://aaunacn.github.io/post-images/1616859748577.jpg" alt="" loading="lazy"></p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[上古世纪买断服购买教学]]></title>
+        <id>https://aaunacn.github.io/post/0RD7NJpaI/</id>
+        <link href="https://aaunacn.github.io/post/0RD7NJpaI/">
+        </link>
+        <updated>2021-04-03T16:33:38.000Z</updated>
+        <content type="html"><![CDATA[<p><strong>一、针对新人想要入坑，这边做一个简要的介绍</strong><br>
+游戏的登陆入口有俩：<strong><code>Steam</code><strong>和</strong><code>Glyph</code></strong><br>
+Glyph：原美服的客户端，也是买断服的主流入口，缺点是注册购买比较繁琐。<br>
+Steam：优点是迎合大家对平台的喜爱和下载速度快；缺点是你后期要绑定上面那个Glyph邮箱和不准备玩了不好脱手。</p>
+<p><strong>二、准备邮箱，国内：126、foxmail 等；国际：google、outlook、hotmail 等。</strong><br>
+<strong>三、然后是买断服注册链接：</strong><br>
+手动复制链接：https://aaunchained.trionworlds.com/account/reg/account-registration-short-flow.action?voucherCode=ZCNJ9DP97LDNQZJ2DJLR&amp;request_locale=en&amp;experience=aaf&amp;utm_source=manual&amp;utm_medium=social&amp;utm_campaign=ascend_invite<br>
+Ps：这链接属于新人邀请链接，你们通过此链接注册后会有相对应的新人礼包，当然，本人也是会获得相对应的老邀新的奖励，这边讲明不坑你们，你们自己决定。<br>
+<strong>四、本人用了谷歌浏览器的谷歌翻译，没有翻译的话可以对照着进行注册。</strong><br>
+<img src="https://aaunacn.github.io/post-images/1617467646357.jpg" alt="" loading="lazy"><br>
+PS：关于不提示白色的机器人验证，可以下载谷歌访问助手，这边就不多做介绍。<br>
+https://wwa.lanzous.com/iv1H6nhjrja（或者换个浏览器：百分浏览器、谷歌浏览器、火狐浏览器）<br>
+<strong>五：注册完毕之后会自动跳转到游戏购买界面，目前支付方式国内的是Karma koin（KK卡）和雷蛇支付（当然，有信用卡的也可以的）。</strong><br>
+<strong>六：先对2个支付方式做个说明，后续你们自行决断：</strong><br>
+①KK卡：优点是简单明了，秒到账，缺点是整数卡密，多出的余额就是得留着，跟超市购物卡一样，可以和其他KK卡合并。<br>
+②雷蛇支付：优点是大于10元可以根据自己需要的礼包而充值，比如15.99的额度，缺点是到账会有延迟。<br>
+KK卡：但由于KK卡属于充值类支付卡密，可以上OffGamers官网或者上某宝：OffGamers 游戏店铺（这是官方店铺），或者其他小店，至于KK的黑卡历史你们可以自行百度。<br>
+<img src="https://aaunacn.github.io/post-images/1617467698223.png" alt="" loading="lazy"><br>
+雷蛇支付教程：<br>
+注册页面：https://razerid.razer.com/<br>
+独立充值网页：https://gold.razer.com/gold/how-to-reload/alipay<br>
+全中文的，照着注册就行了，记得个人信息是中国，不然不会跳出支付宝。<br>
+先给雷蛇充值余额：15.99 金币<br>
+<img src="https://aaunacn.github.io/post-images/1617467718544.png" alt="" loading="lazy"><br>
+<strong>七：接下来是购买环节。首先从商店界面进入买断版本，不要进错了。</strong><br>
+游戏本体：ArcheAge: Unchained<br>
+<img src="https://aaunacn.github.io/post-images/1617467733723.png" alt="" loading="lazy"><br>
+然后跳转到支付页面<br>
+<img src="https://aaunacn.github.io/post-images/1617467747160.png" alt="" loading="lazy"><br>
+<img src="https://aaunacn.github.io/post-images/1617467755840.png" alt="" loading="lazy"><br>
+<img src="https://aaunacn.github.io/post-images/1617467763817.png" alt="" loading="lazy"><br>
+<img src="https://aaunacn.github.io/post-images/1617467770613.png" alt="" loading="lazy"><br>
+<strong>八：这样，就可以安心的下载玩游戏了。</strong></p>
+<p><strong>️<code>☯️对咯对咯，如果你们实在不想操作的话，联系群猪，本群猪也卖帐号的撒，按7元/刀结算哦，只要是G平台的就OK的，当然，提示欧服支付就别联系俺了。☯️</code>️</strong></p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[萌新指南（入坑前）]]></title>
+        <id>https://aaunacn.github.io/post/mxznrkq/</id>
+        <link href="https://aaunacn.github.io/post/mxznrkq/">
+        </link>
+        <updated>2021-04-03T06:40:51.000Z</updated>
+        <content type="html"><![CDATA[<p><strong><code>Q：什么加速器支持加速Glyph官网</code></strong><br>
+A：腾讯加速器-Vip就可以，选择模式四 可以进官网。(具体什么时候会失效，目前无法确定)<br>
+Ps：有专门介绍，自行搜索“如何访问Glyph游戏官网”</p>
+<p><strong><code>Q：有什么加速器支持下载游戏？</code></strong><br>
+A：一、网易UU、玲珑加速器(推荐前者,不同地域不同情况，正常情况下根据实际带宽满速下载)；<br>
+二、腾讯加速器(免费3天、模式四大概1M/s，不保证)<br>
+Ps：请自觉自行某宝</p>
+<p><strong><code>Q：有什么加速器支持加速游戏？</code></strong><br>
+A：雷神、赛博、斧牛、网易UU、玲珑加速器、腾讯加速器。</p>
+<p><strong><code>Q：什么邮箱支持注册游戏帐号？</code></strong><br>
+A：准备好邮箱，国内：126、foxmail 等；国际：google、outlook、hotmail 等。</p>
+<p><strong><code>Q：如何注册游戏帐号？</code></strong><br>
+A：已单独开帖</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[时装随机礼盒大全]]></title>
+        <id>https://aaunacn.github.io/post/qZbm05p09/</id>
+        <link href="https://aaunacn.github.io/post/qZbm05p09/">
+        </link>
+        <updated>2021-04-02T16:56:49.000Z</updated>
+        <content type="html"><![CDATA[<figure data-type="image" tabindex="1"><img src="https://aaunacn.github.io/post-images/1617382633282.jpg" alt="" loading="lazy"></figure>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[活动奖励]]></title>
+        <id>https://aaunacn.github.io/post/XO01ZCkyD/</id>
+        <link href="https://aaunacn.github.io/post/XO01ZCkyD/">
+        </link>
+        <updated>2021-04-02T11:50:23.000Z</updated>
+        <content type="html"><![CDATA[<p><strong><code>复活节彩蛋BUFF</code></strong><br>
+<img src="https://aaunacn.github.io/post-images/1617364260753.jpg" alt="" loading="lazy"></p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[新手任务！]]></title>
+        <id>https://aaunacn.github.io/post/vPLJPGdHI/</id>
+        <link href="https://aaunacn.github.io/post/vPLJPGdHI/">
+        </link>
+        <updated>2021-04-01T13:16:04.000Z</updated>
+        <content type="html"><![CDATA[<p>喂养武器或装备即可<br>
+<img src="https://aaunacn.github.io/post-images/1617282985711.jpg" alt="" loading="lazy"><br>
+<img src="https://aaunacn.github.io/post-images/1617283026244.jpg" alt="" loading="lazy"></p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Options设置]]></title>
+        <id>https://aaunacn.github.io/post/DQi-rdTqo/</id>
+        <link href="https://aaunacn.github.io/post/DQi-rdTqo/">
+        </link>
+        <updated>2021-04-01T13:12:29.000Z</updated>
+        <content type="html"><![CDATA[<p><strong><code>开启FPS</code></strong><br>
+<img src="https://aaunacn.github.io/post-images/1617282781988.jpg" alt="" loading="lazy"></p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[如何访问Glyph游戏官网]]></title>
+        <id>https://aaunacn.github.io/post/glyphgw/</id>
+        <link href="https://aaunacn.github.io/post/glyphgw/">
+        </link>
+        <updated>2021-03-31T10:58:46.000Z</updated>
+        <content type="html"><![CDATA[<p>第一步：启动腾讯加速器(免费体验3天或者某宝买体验卡)，点击 智能节点<br>
+<img src="https://aaunacn.github.io/post-images/1617188428681.png" alt="" loading="lazy"><br>
+第二步：取消勾选模式二，只运行“模式四”，点击“智能加速”<br>
+<img src="https://aaunacn.github.io/post-images/1617188522860.png" alt="" loading="lazy"><br>
+第三步：复制下面的网址，单独打开，由于该网站加了CDN解析，会无法正常打开登陆<br>
+https://aaunchained.trionworlds.com/account/profile/manage-game!input.action?dd=1<br>
+<strong><code>Ps：如果出现无法打开官网就多换几个模式四的节点</code></strong></p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[谷歌访问助手插件(Google)]]></title>
+        <id>https://aaunacn.github.io/post/gLjbf3qg8/</id>
+        <link href="https://aaunacn.github.io/post/gLjbf3qg8/">
+        </link>
+        <updated>2021-03-31T10:48:13.000Z</updated>
+        <content type="html"><![CDATA[<p><a href="https://wwa.lanzous.com/iv1H6nhjrja">点击下载地址</a><br>
+谷歌访问助手安装：<br>
+第一步、打开chrome扩展程序管理页面，按照如下操作安装<br>
+<img src="https://aaunacn.github.io/post-images/1617187858217.jpg" alt="" loading="lazy"><br>
+第二步，解压下载包，记住解压的路径，选择“加载已解压的扩展程序”<br>
+<img src="https://aaunacn.github.io/post-images/1617188090704.jpg" alt="" loading="lazy"><br>
+<img src="https://aaunacn.github.io/post-images/1617188158401.jpg" alt="" loading="lazy"><br>
+第三步：多点击几次刷新、重启（为什么部分无法正常使用，别问我，我也不知道）<br>
+<img src="https://aaunacn.github.io/post-images/1617188221777.png" alt="" loading="lazy"></p>
+]]></content>
+    </entry>
+</feed>
