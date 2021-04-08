@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://aaunacn.github.io</id>
     <title>ArcheAge:Unchained</title>
-    <updated>2021-04-08T00:33:02.660Z</updated>
+    <updated>2021-04-08T13:36:28.437Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://aaunacn.github.io"/>
     <link rel="self" href="https://aaunacn.github.io/atom.xml"/>
@@ -10,6 +10,28 @@
     <logo>https://aaunacn.github.io/images/avatar.png</logo>
     <icon>https://aaunacn.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, ArcheAge:Unchained</rights>
+    <entry>
+        <title type="html"><![CDATA[关于提示：Easy Anti-Cheat]]></title>
+        <id>https://aaunacn.github.io/post/qrO3kFoWu/</id>
+        <link href="https://aaunacn.github.io/post/qrO3kFoWu/">
+        </link>
+        <updated>2021-04-08T13:27:53.000Z</updated>
+        <content type="html"><![CDATA[<p><img src="https://aaunacn.github.io/post-images/1617888490083.png" alt="" loading="lazy"><br>
+第一步：先确定自身系统是否是：Service Pack 1 如果不是，这办法直接无效<br>
+<img src="https://aaunacn.github.io/post-images/1617888524785.jpg" alt="" loading="lazy"><br>
+第二步：下载群文件“windows6.1-kb4474419-v3-x64”<br>
+<img src="https://aaunacn.github.io/post-images/1617888599525.jpg" alt="" loading="lazy"><br>
+第三步：打开任务管理器：Ctrl+Alt+Del，点击上方“服务”，打开右下角“服务”<br>
+<img src="https://aaunacn.github.io/post-images/1617888667419.jpg" alt="" loading="lazy"><br>
+第四步：找到进程“Windows Update”启动类型改为&quot;自动&quot;，点击“应用”后“确定”。<br>
+<img src="https://aaunacn.github.io/post-images/1617888753262.jpg" alt="" loading="lazy"><br>
+第五步：打开第二步下载的kb4474419文件，并安装<br>
+<img src="https://aaunacn.github.io/post-images/1617888836916.png" alt="" loading="lazy"><br>
+第六步：根据第五步会提示重启电脑，然后电脑关机时会处于&quot;配置Windows Update&quot;，这时耐心等待，会根据实际电脑情况进行读取并安装之前的补丁，开机后也是会之前一样的提示。<br>
+<img src="https://aaunacn.github.io/post-images/1617888888189.jpg" alt="" loading="lazy"><br>
+第七步：跳转到第三步，把“Windows Update”启动类型改为&quot;禁用&quot;，点击“应用”后“确定”。</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[关于Pass任务的介绍！]]></title>
         <id>https://aaunacn.github.io/post/FQA7V6sQt/</id>
@@ -168,23 +190,6 @@ A：已单独开帖</p>
 第三步：复制下面的网址，单独打开，由于该网站加了CDN解析，会无法正常打开登陆<br>
 https://aaunchained.trionworlds.com/account/profile/manage-game!input.action?dd=1<br>
 <strong><code>Ps：如果出现无法打开官网就多换几个模式四的节点</code></strong></p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[谷歌访问助手插件(Google)]]></title>
-        <id>https://aaunacn.github.io/post/gLjbf3qg8/</id>
-        <link href="https://aaunacn.github.io/post/gLjbf3qg8/">
-        </link>
-        <updated>2021-03-31T10:48:13.000Z</updated>
-        <content type="html"><![CDATA[<p><a href="https://wwa.lanzous.com/iv1H6nhjrja">点击下载地址</a><br>
-谷歌访问助手安装：<br>
-第一步、打开chrome扩展程序管理页面，按照如下操作安装<br>
-<img src="https://aaunacn.github.io/post-images/1617187858217.jpg" alt="" loading="lazy"><br>
-第二步，解压下载包，记住解压的路径，选择“加载已解压的扩展程序”<br>
-<img src="https://aaunacn.github.io/post-images/1617188090704.jpg" alt="" loading="lazy"><br>
-<img src="https://aaunacn.github.io/post-images/1617188158401.jpg" alt="" loading="lazy"><br>
-第三步：多点击几次刷新、重启（为什么部分无法正常使用，别问我，我也不知道）<br>
-<img src="https://aaunacn.github.io/post-images/1617188221777.png" alt="" loading="lazy"></p>
 ]]></content>
     </entry>
 </feed>
