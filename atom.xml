@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://aaunacn.github.io</id>
     <title>ArcheAge:Unchained</title>
-    <updated>2021-04-11T15:40:32.287Z</updated>
+    <updated>2021-04-11T16:01:34.600Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://aaunacn.github.io"/>
     <link rel="self" href="https://aaunacn.github.io/atom.xml"/>
@@ -12,8 +12,8 @@
     <rights>All rights reserved 2021, ArcheAge:Unchained</rights>
     <entry>
         <title type="html"><![CDATA[委托任务（Crafting Request）教程]]></title>
-        <id>https://aaunacn.github.io/post/8BTwTHV-S/</id>
-        <link href="https://aaunacn.github.io/post/8BTwTHV-S/">
+        <id>https://aaunacn.github.io/post/wtrw/</id>
+        <link href="https://aaunacn.github.io/post/wtrw/">
         </link>
         <updated>2021-04-11T12:40:12.000Z</updated>
         <content type="html"><![CDATA[<p><strong><code>发布委托</code></strong><br>
@@ -29,8 +29,8 @@ Ps：“Request”亮着表示才可以挂委托，灰色表示不支持委托�
     </entry>
     <entry>
         <title type="html"><![CDATA[关于提示：Easy Anti-Cheat]]></title>
-        <id>https://aaunacn.github.io/post/qrO3kFoWu/</id>
-        <link href="https://aaunacn.github.io/post/qrO3kFoWu/">
+        <id>https://aaunacn.github.io/post/easy/</id>
+        <link href="https://aaunacn.github.io/post/easy/">
         </link>
         <updated>2021-04-08T13:27:53.000Z</updated>
         <content type="html"><![CDATA[<p><img src="https://aaunacn.github.io/post-images/1617888490083.png" alt="" loading="lazy"><br>
@@ -51,8 +51,8 @@ Ps：“Request”亮着表示才可以挂委托，灰色表示不支持委托�
     </entry>
     <entry>
         <title type="html"><![CDATA[关于Pass任务的介绍！]]></title>
-        <id>https://aaunacn.github.io/post/FQA7V6sQt/</id>
-        <link href="https://aaunacn.github.io/post/FQA7V6sQt/">
+        <id>https://aaunacn.github.io/post/pass/</id>
+        <link href="https://aaunacn.github.io/post/pass/">
         </link>
         <updated>2021-04-06T17:41:40.000Z</updated>
         <content type="html"><![CDATA[<p>建议只开中间的，第一个和第三个都不需要去开，中间完成消耗500劳动力、1000劳动力，获得500生活点、1000生活点、1张或者2涨债券任务。<br>
