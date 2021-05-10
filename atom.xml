@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://aaunacn.github.io</id>
     <title>ArcheAge:Unchained</title>
-    <updated>2021-05-06T00:00:42.552Z</updated>
+    <updated>2021-05-10T00:10:18.347Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://aaunacn.github.io"/>
     <link rel="self" href="https://aaunacn.github.io/atom.xml"/>
@@ -10,6 +10,24 @@
     <logo>https://aaunacn.github.io/images/avatar.png</logo>
     <icon>https://aaunacn.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, ArcheAge:Unchained</rights>
+    <entry>
+        <title type="html"><![CDATA[游戏黑名单]]></title>
+        <id>https://aaunacn.github.io/post/hmd/</id>
+        <link href="https://aaunacn.github.io/post/hmd/">
+        </link>
+        <updated>2021-05-09T23:54:34.000Z</updated>
+        <content type="html"><![CDATA[<p>区服：Marmas<br>
+QQ：373831691<br>
+微信：Wzk。(*亮)<br>
+支付宝：<br>
+具体事件：出售帐号，不告知密保问题，只让你修改绑定的邮箱手机等资料，一段时间后修改密码并登陆清号。<br>
+聊天截图：<br>
+<img src="https://aaunacn.github.io/post-images/1620604695141.png" alt="" loading="lazy"><br>
+<img src="https://aaunacn.github.io/post-images/1620604700310.png" alt="" loading="lazy"><br>
+<img src="https://aaunacn.github.io/post-images/1620604705073.jpg" alt="" loading="lazy"><br>
+<img src="https://aaunacn.github.io/post-images/1620604709059.png" alt="" loading="lazy"></p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[武器外形图]]></title>
         <id>https://aaunacn.github.io/post/0twISbSuL/</id>
@@ -183,17 +201,6 @@ A：已单独开帖</p>
 <img src="https://aaunacn.github.io/post-images/1617364260753.jpg" alt="" loading="lazy"></p>
 <p>草原之脉-养殖小动物 培养道具<br>
 <img src="https://aaunacn.github.io/post-images/1617927517886.jpg" alt="" loading="lazy"></p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[新手任务！]]></title>
-        <id>https://aaunacn.github.io/post/vPLJPGdHI/</id>
-        <link href="https://aaunacn.github.io/post/vPLJPGdHI/">
-        </link>
-        <updated>2021-04-01T13:16:04.000Z</updated>
-        <content type="html"><![CDATA[<p>喂养武器或装备即可<br>
-<img src="https://aaunacn.github.io/post-images/1617282985711.jpg" alt="" loading="lazy"><br>
-<img src="https://aaunacn.github.io/post-images/1617283026244.jpg" alt="" loading="lazy"></p>
 ]]></content>
     </entry>
 </feed>
