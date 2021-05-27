@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://aaunacn.github.io</id>
     <title>ArcheAge:Unchained</title>
-    <updated>2021-05-22T12:18:23.146Z</updated>
+    <updated>2021-05-27T12:57:11.754Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://aaunacn.github.io"/>
     <link rel="self" href="https://aaunacn.github.io/atom.xml"/>
@@ -10,6 +10,23 @@
     <logo>https://aaunacn.github.io/images/avatar.png</logo>
     <icon>https://aaunacn.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, ArcheAge:Unchained</rights>
+    <entry>
+        <title type="html"><![CDATA[可交易内衣与不可交易内衣材料制作及其说明]]></title>
+        <id>https://aaunacn.github.io/post/3hjnvkGzO/</id>
+        <link href="https://aaunacn.github.io/post/3hjnvkGzO/">
+        </link>
+        <updated>2021-05-27T12:42:20.000Z</updated>
+        <content type="html"><![CDATA[<p>游戏说明：游戏内衣分为2种：可交易 &amp; 不可交易<br>
+好处：①如果前期有做Pass，会有赠送时装材料箱，这样可以把可交易的交易给小号喂；②洗内衣属性时，可以给其他有洗属性石的角色洗绿字属性。<br>
+弊端：就是成本贵了点。<br>
+O键搜：underg 即可查看制作材料。<br>
+<strong><code>Ps：制作可交易的内衣属性时，制作完成之后是不可交易的，右键打开会有4件不同类型的内衣，选择后就可以交易了，但千万不要穿戴，穿戴后就是不可交易的。</code></strong></p>
+<p>一：<strong><code>可交易 内衣（金色猫咪内衣）</code></strong><br>
+<img src="https://aaunacn.github.io/post-images/1622119574893.jpg" alt="" loading="lazy"></p>
+<p>二：<strong><code>不可交易 内衣</code></strong><br>
+<img src="https://aaunacn.github.io/post-images/1622119814446.jpg" alt="" loading="lazy"></p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[神赐·武器、防具 宗师强化剂材料表]]></title>
         <id>https://aaunacn.github.io/post/Q5iE_EH8N/</id>
@@ -206,15 +223,6 @@ A：由于某群某汉化携带半自动功能，以防止整条加速器全部�
 A：准备好邮箱，国内：126、foxmail 等；国际：google、outlook、hotmail 等。</p>
 <p><strong><code>Q：如何注册游戏帐号？</code></strong><br>
 A：已单独开帖</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[时装随机礼盒大全]]></title>
-        <id>https://aaunacn.github.io/post/qZbm05p09/</id>
-        <link href="https://aaunacn.github.io/post/qZbm05p09/">
-        </link>
-        <updated>2021-04-02T16:56:49.000Z</updated>
-        <content type="html"><![CDATA[<figure data-type="image" tabindex="1"><img src="https://aaunacn.github.io/post-images/1617382633282.jpg" alt="" loading="lazy"></figure>
 ]]></content>
     </entry>
 </feed>
