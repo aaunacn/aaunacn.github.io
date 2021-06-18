@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://aaunacn.github.io</id>
     <title>ArcheAge:Unchained</title>
-    <updated>2021-06-07T15:32:10.962Z</updated>
+    <updated>2021-06-18T00:14:27.814Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://aaunacn.github.io"/>
     <link rel="self" href="https://aaunacn.github.io/atom.xml"/>
@@ -10,6 +10,18 @@
     <logo>https://aaunacn.github.io/images/avatar.png</logo>
     <icon>https://aaunacn.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, ArcheAge:Unchained</rights>
+    <entry>
+        <title type="html"><![CDATA[6月AAU更新内容原文&机翻]]></title>
+        <id>https://aaunacn.github.io/post/Y-uauIdPq/</id>
+        <link href="https://aaunacn.github.io/post/Y-uauIdPq/">
+        </link>
+        <updated>2021-06-18T00:09:30.000Z</updated>
+        <content type="html"><![CDATA[<p><strong><code>机翻</code></strong><br>
+<img src="https://aaunacn.github.io/post-images/1623975221443.jpg" alt="" loading="lazy"><br>
+<strong><code>原文</code></strong><br>
+<img src="https://aaunacn.github.io/post-images/1623975162957.jpg" alt="" loading="lazy"></p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[可交易内衣与不可交易内衣材料制作及其说明]]></title>
         <id>https://aaunacn.github.io/post/3hjnvkGzO/</id>
@@ -194,35 +206,6 @@ KK卡：但由于KK卡属于充值类支付卡密，可以上OffGamers官网或�
 <img src="https://aaunacn.github.io/post-images/1617467770613.png" alt="" loading="lazy"><br>
 <strong>八：这样，就可以安心的下载玩游戏了。</strong></p>
 <p><strong>️<code>☯️对咯对咯，如果你们实在不想操作的话，联系群猪，本群猪也卖帐号的撒，按7元/刀结算哦，只要是G平台的就OK的，当然，提示欧服支付就别联系俺了。☯️</code>️</strong></p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[萌新指南（入坑前）]]></title>
-        <id>https://aaunacn.github.io/post/mxznrkq/</id>
-        <link href="https://aaunacn.github.io/post/mxznrkq/">
-        </link>
-        <updated>2021-04-03T06:40:51.000Z</updated>
-        <content type="html"><![CDATA[<p><strong><code>上古世纪简章</code></strong><br>
-英文名：ArcheAge:Unchained<br>
-俗称：上古世纪：买断服<br>
-服务器：美服(NA)&amp;欧服(EU)<br>
-游戏平台：Glyph<br>
-游戏帐号需要花钱(官方不定时打折，价格以实际为准，正常情况下15.99美刀)，游戏属于买断制会员，购买了帐号就等于永久获得了会员资格（除非官方倒闭），不管是否上线，都会恢复劳动力(5分钟10点劳动力，细节看其他帖子)，游戏内道具基本都是通过游戏内正常获得(装备、船舶、机械载具、坐骑、滑翔翼等等，细节上懒得说了 想玩自己买帐号后自己游戏内了解)。<br>
-Ps：购买游戏本体外，只能享受基本的游戏玩法，但后期的版本更新都是需要通过购买扩展DLC（庭院DLC、火枪天赋DLC 等以后新出的游戏机制），什么是游戏DLC？自己百度去。</p>
-<p><strong><code>Q：什么加速器支持加速Glyph官网</code></strong><br>
-A：腾讯加速器-Vip就可以，选择模式四 可以进官网。(具体什么时候会失效，目前无法确定)<br>
-Ps：有专门介绍，自行搜索“如何访问Glyph游戏官网”</p>
-<p><strong><code>Q：有什么加速器支持下载游戏？</code></strong><br>
-A：一、网易UU、玲珑加速器(推荐前者,不同地域不同情况，正常情况下根据实际带宽满速下载)；<br>
-二、腾讯加速器(免费3天、模式四大概1M/s，不保证)<br>
-Ps：下载游戏前请准备已购买资格的帐号，否则不支持下载（群主代注册帐号哟）<br>
-<img src="https://aaunacn.github.io/post-images/1618053449974.png" alt="" loading="lazy"></p>
-<p><strong><code>Q：有什么加速器支持加速游戏？</code></strong><br>
-A：由于某群某汉化携带半自动功能，以防止整条加速器全部封号，这边就不推荐，请自行百度。</p>
-<p><strong><code>Q：什么邮箱支持注册游戏帐号？</code></strong><br>
-A：准备好邮箱，国内：126、foxmail 等；国际：google、outlook、hotmail 等。</p>
-<p><strong><code>Q：如何注册游戏帐号？</code></strong><br>
-A：已单独开帖</p>
 ]]></content>
     </entry>
 </feed>
